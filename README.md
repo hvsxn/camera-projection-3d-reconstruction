@@ -5,6 +5,8 @@ A MATLAB computer-vision project implementing camera projection, inverse project
 **Author:** Nihat Hasan  
 **Course:** CMPEN/EE 454, Penn State
 
+[Read the project report](report.pdf)
+
 ## Overview
 
 This project takes known 3D motion-capture coordinates for 12 body joints, projects them into two calibrated camera views, and reconstructs the original coordinates using triangulation.
